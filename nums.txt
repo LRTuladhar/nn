@@ -1,0 +1,999 @@
+0,zero
+,one
+2,two
+3,three
+4,four
+5,five
+6,six
+7,seven
+8,eight
+9,nine
+1 0,ten
+1 1,eleven
+1 2,twelve
+1 3,thirteen
+1 4,fourteen
+1 5,fifteen
+1 6,sixteen
+1 7,seventeen
+1 8,eighteen
+1 9,nineteen
+2 0,twenty 
+2 1,twenty one
+2 2,twenty two
+2 3,twenty three
+2 4,twenty four
+2 5,twenty five
+2 6,twenty six
+2 7,twenty seven
+2 8,twenty eight
+2 9,twenty nine
+3 0,thirty 
+3 1,thirty one
+3 2,thirty two
+3 3,thirty three
+3 4,thirty four
+3 5,thirty five
+3 6,thirty six
+3 7,thirty seven
+3 8,thirty eight
+3 9,thirty nine
+4 0,forty 
+4 1,forty one
+4 2,forty two
+4 3,forty three
+4 4,forty four
+4 5,forty five
+4 6,forty six
+4 7,forty seven
+4 8,forty eight
+4 9,forty nine
+5 0,fifty 
+5 1,fifty one
+5 2,fifty two
+5 3,fifty three
+5 4,fifty four
+5 5,fifty five
+5 6,fifty six
+5 7,fifty seven
+5 8,fifty eight
+5 9,fifty nine
+6 0,sixty 
+6 1,sixty one
+6 2,sixty two
+6 3,sixty three
+6 4,sixty four
+6 5,sixty five
+6 6,sixty six
+6 7,sixty seven
+6 8,sixty eight
+6 9,sixty nine
+7 0,seventy 
+7 1,seventy one
+7 2,seventy two
+7 3,seventy three
+7 4,seventy four
+7 5,seventy five
+7 6,seventy six
+7 7,seventy seven
+7 8,seventy eight
+7 9,seventy nine
+8 0,eighty 
+8 1,eighty one
+8 2,eighty two
+8 3,eighty three
+8 4,eighty four
+8 5,eighty five
+8 6,eighty six
+8 7,eighty seven
+8 8,eighty eight
+8 9,eighty nine
+9 0,ninety 
+9 1,ninety one
+9 2,ninety two
+9 3,ninety three
+9 4,ninety four
+9 5,ninety five
+9 6,ninety six
+9 7,ninety seven
+9 8,ninety eight
+9 9,ninety nine
+1 0 0,one hundred
+1 0 1,one hundred one
+1 0 2,one hundred two
+1 0 3,one hundred three
+1 0 4,one hundred four
+1 0 5,one hundred five
+1 0 6,one hundred six
+1 0 7,one hundred seven
+1 0 8,one hundred eight
+1 0 9,one hundred nine
+1 1 0,one hundred ten
+1 1 1,one hundred eleven
+1 1 2,one hundred twelve
+1 1 3,one hundred thirteen
+1 1 4,one hundred fourteen
+1 1 5,one hundred fifteen
+1 1 6,one hundred sixteen
+1 1 7,one hundred seventeen
+1 1 8,one hundred eighteen
+1 1 9,one hundred nineteen
+1 2 0,one hundred twenty 
+1 2 1,one hundred twenty one
+1 2 2,one hundred twenty two
+1 2 3,one hundred twenty three
+1 2 4,one hundred twenty four
+1 2 5,one hundred twenty five
+1 2 6,one hundred twenty six
+1 2 7,one hundred twenty seven
+1 2 8,one hundred twenty eight
+1 2 9,one hundred twenty nine
+1 3 0,one hundred thirty 
+1 3 1,one hundred thirty one
+1 3 2,one hundred thirty two
+1 3 3,one hundred thirty three
+1 3 4,one hundred thirty four
+1 3 5,one hundred thirty five
+1 3 6,one hundred thirty six
+1 3 7,one hundred thirty seven
+1 3 8,one hundred thirty eight
+1 3 9,one hundred thirty nine
+1 4 0,one hundred forty 
+1 4 1,one hundred forty one
+1 4 2,one hundred forty two
+1 4 3,one hundred forty three
+1 4 4,one hundred forty four
+1 4 5,one hundred forty five
+1 4 6,one hundred forty six
+1 4 7,one hundred forty seven
+1 4 8,one hundred forty eight
+1 4 9,one hundred forty nine
+1 5 0,one hundred fifty 
+1 5 1,one hundred fifty one
+1 5 2,one hundred fifty two
+1 5 3,one hundred fifty three
+1 5 4,one hundred fifty four
+1 5 5,one hundred fifty five
+1 5 6,one hundred fifty six
+1 5 7,one hundred fifty seven
+1 5 8,one hundred fifty eight
+1 5 9,one hundred fifty nine
+1 6 0,one hundred sixty 
+1 6 1,one hundred sixty one
+1 6 2,one hundred sixty two
+1 6 3,one hundred sixty three
+1 6 4,one hundred sixty four
+1 6 5,one hundred sixty five
+1 6 6,one hundred sixty six
+1 6 7,one hundred sixty seven
+1 6 8,one hundred sixty eight
+1 6 9,one hundred sixty nine
+1 7 0,one hundred seventy 
+1 7 1,one hundred seventy one
+1 7 2,one hundred seventy two
+1 7 3,one hundred seventy three
+1 7 4,one hundred seventy four
+1 7 5,one hundred seventy five
+1 7 6,one hundred seventy six
+1 7 7,one hundred seventy seven
+1 7 8,one hundred seventy eight
+1 7 9,one hundred seventy nine
+1 8 0,one hundred eighty 
+1 8 1,one hundred eighty one
+1 8 2,one hundred eighty two
+1 8 3,one hundred eighty three
+1 8 4,one hundred eighty four
+1 8 5,one hundred eighty five
+1 8 6,one hundred eighty six
+1 8 7,one hundred eighty seven
+1 8 8,one hundred eighty eight
+1 8 9,one hundred eighty nine
+1 9 0,one hundred ninety 
+1 9 1,one hundred ninety one
+1 9 2,one hundred ninety two
+1 9 3,one hundred ninety three
+1 9 4,one hundred ninety four
+1 9 5,one hundred ninety five
+1 9 6,one hundred ninety six
+1 9 7,one hundred ninety seven
+1 9 8,one hundred ninety eight
+1 9 9,one hundred ninety nine
+2 0 0,two hundred
+2 0 1,two hundred one
+2 0 2,two hundred two
+2 0 3,two hundred three
+2 0 4,two hundred four
+2 0 5,two hundred five
+2 0 6,two hundred six
+2 0 7,two hundred seven
+2 0 8,two hundred eight
+2 0 9,two hundred nine
+2 1 0,two hundred ten
+2 1 1,two hundred eleven
+2 1 2,two hundred twelve
+2 1 3,two hundred thirteen
+2 1 4,two hundred fourteen
+2 1 5,two hundred fifteen
+2 1 6,two hundred sixteen
+2 1 7,two hundred seventeen
+2 1 8,two hundred eighteen
+2 1 9,two hundred nineteen
+2 2 0,two hundred twenty 
+2 2 1,two hundred twenty one
+2 2 2,two hundred twenty two
+2 2 3,two hundred twenty three
+2 2 4,two hundred twenty four
+2 2 5,two hundred twenty five
+2 2 6,two hundred twenty six
+2 2 7,two hundred twenty seven
+2 2 8,two hundred twenty eight
+2 2 9,two hundred twenty nine
+2 3 0,two hundred thirty 
+2 3 1,two hundred thirty one
+2 3 2,two hundred thirty two
+2 3 3,two hundred thirty three
+2 3 4,two hundred thirty four
+2 3 5,two hundred thirty five
+2 3 6,two hundred thirty six
+2 3 7,two hundred thirty seven
+2 3 8,two hundred thirty eight
+2 3 9,two hundred thirty nine
+2 4 0,two hundred forty 
+2 4 1,two hundred forty one
+2 4 2,two hundred forty two
+2 4 3,two hundred forty three
+2 4 4,two hundred forty four
+2 4 5,two hundred forty five
+2 4 6,two hundred forty six
+2 4 7,two hundred forty seven
+2 4 8,two hundred forty eight
+2 4 9,two hundred forty nine
+2 5 0,two hundred fifty 
+2 5 1,two hundred fifty one
+2 5 2,two hundred fifty two
+2 5 3,two hundred fifty three
+2 5 4,two hundred fifty four
+2 5 5,two hundred fifty five
+2 5 6,two hundred fifty six
+2 5 7,two hundred fifty seven
+2 5 8,two hundred fifty eight
+2 5 9,two hundred fifty nine
+2 6 0,two hundred sixty 
+2 6 1,two hundred sixty one
+2 6 2,two hundred sixty two
+2 6 3,two hundred sixty three
+2 6 4,two hundred sixty four
+2 6 5,two hundred sixty five
+2 6 6,two hundred sixty six
+2 6 7,two hundred sixty seven
+2 6 8,two hundred sixty eight
+2 6 9,two hundred sixty nine
+2 7 0,two hundred seventy 
+2 7 1,two hundred seventy one
+2 7 2,two hundred seventy two
+2 7 3,two hundred seventy three
+2 7 4,two hundred seventy four
+2 7 5,two hundred seventy five
+2 7 6,two hundred seventy six
+2 7 7,two hundred seventy seven
+2 7 8,two hundred seventy eight
+2 7 9,two hundred seventy nine
+2 8 0,two hundred eighty 
+2 8 1,two hundred eighty one
+2 8 2,two hundred eighty two
+2 8 3,two hundred eighty three
+2 8 4,two hundred eighty four
+2 8 5,two hundred eighty five
+2 8 6,two hundred eighty six
+2 8 7,two hundred eighty seven
+2 8 8,two hundred eighty eight
+2 8 9,two hundred eighty nine
+2 9 0,two hundred ninety 
+2 9 1,two hundred ninety one
+2 9 2,two hundred ninety two
+2 9 3,two hundred ninety three
+2 9 4,two hundred ninety four
+2 9 5,two hundred ninety five
+2 9 6,two hundred ninety six
+2 9 7,two hundred ninety seven
+2 9 8,two hundred ninety eight
+2 9 9,two hundred ninety nine
+3 0 0,three hundred
+3 0 1,three hundred one
+3 0 2,three hundred two
+3 0 3,three hundred three
+3 0 4,three hundred four
+3 0 5,three hundred five
+3 0 6,three hundred six
+3 0 7,three hundred seven
+3 0 8,three hundred eight
+3 0 9,three hundred nine
+3 1 0,three hundred ten
+3 1 1,three hundred eleven
+3 1 2,three hundred twelve
+3 1 3,three hundred thirteen
+3 1 4,three hundred fourteen
+3 1 5,three hundred fifteen
+3 1 6,three hundred sixteen
+3 1 7,three hundred seventeen
+3 1 8,three hundred eighteen
+3 1 9,three hundred nineteen
+3 2 0,three hundred twenty 
+3 2 1,three hundred twenty one
+3 2 2,three hundred twenty two
+3 2 3,three hundred twenty three
+3 2 4,three hundred twenty four
+3 2 5,three hundred twenty five
+3 2 6,three hundred twenty six
+3 2 7,three hundred twenty seven
+3 2 8,three hundred twenty eight
+3 2 9,three hundred twenty nine
+3 3 0,three hundred thirty 
+3 3 1,three hundred thirty one
+3 3 2,three hundred thirty two
+3 3 3,three hundred thirty three
+3 3 4,three hundred thirty four
+3 3 5,three hundred thirty five
+3 3 6,three hundred thirty six
+3 3 7,three hundred thirty seven
+3 3 8,three hundred thirty eight
+3 3 9,three hundred thirty nine
+3 4 0,three hundred forty 
+3 4 1,three hundred forty one
+3 4 2,three hundred forty two
+3 4 3,three hundred forty three
+3 4 4,three hundred forty four
+3 4 5,three hundred forty five
+3 4 6,three hundred forty six
+3 4 7,three hundred forty seven
+3 4 8,three hundred forty eight
+3 4 9,three hundred forty nine
+3 5 0,three hundred fifty 
+3 5 1,three hundred fifty one
+3 5 2,three hundred fifty two
+3 5 3,three hundred fifty three
+3 5 4,three hundred fifty four
+3 5 5,three hundred fifty five
+3 5 6,three hundred fifty six
+3 5 7,three hundred fifty seven
+3 5 8,three hundred fifty eight
+3 5 9,three hundred fifty nine
+3 6 0,three hundred sixty 
+3 6 1,three hundred sixty one
+3 6 2,three hundred sixty two
+3 6 3,three hundred sixty three
+3 6 4,three hundred sixty four
+3 6 5,three hundred sixty five
+3 6 6,three hundred sixty six
+3 6 7,three hundred sixty seven
+3 6 8,three hundred sixty eight
+3 6 9,three hundred sixty nine
+3 7 0,three hundred seventy 
+3 7 1,three hundred seventy one
+3 7 2,three hundred seventy two
+3 7 3,three hundred seventy three
+3 7 4,three hundred seventy four
+3 7 5,three hundred seventy five
+3 7 6,three hundred seventy six
+3 7 7,three hundred seventy seven
+3 7 8,three hundred seventy eight
+3 7 9,three hundred seventy nine
+3 8 0,three hundred eighty 
+3 8 1,three hundred eighty one
+3 8 2,three hundred eighty two
+3 8 3,three hundred eighty three
+3 8 4,three hundred eighty four
+3 8 5,three hundred eighty five
+3 8 6,three hundred eighty six
+3 8 7,three hundred eighty seven
+3 8 8,three hundred eighty eight
+3 8 9,three hundred eighty nine
+3 9 0,three hundred ninety 
+3 9 1,three hundred ninety one
+3 9 2,three hundred ninety two
+3 9 3,three hundred ninety three
+3 9 4,three hundred ninety four
+3 9 5,three hundred ninety five
+3 9 6,three hundred ninety six
+3 9 7,three hundred ninety seven
+3 9 8,three hundred ninety eight
+3 9 9,three hundred ninety nine
+4 0 0,four hundred
+4 0 1,four hundred one
+4 0 2,four hundred two
+4 0 3,four hundred three
+4 0 4,four hundred four
+4 0 5,four hundred five
+4 0 6,four hundred six
+4 0 7,four hundred seven
+4 0 8,four hundred eight
+4 0 9,four hundred nine
+4 1 0,four hundred ten
+4 1 1,four hundred eleven
+4 1 2,four hundred twelve
+4 1 3,four hundred thirteen
+4 1 4,four hundred fourteen
+4 1 5,four hundred fifteen
+4 1 6,four hundred sixteen
+4 1 7,four hundred seventeen
+4 1 8,four hundred eighteen
+4 1 9,four hundred nineteen
+4 2 0,four hundred twenty 
+4 2 1,four hundred twenty one
+4 2 2,four hundred twenty two
+4 2 3,four hundred twenty three
+4 2 4,four hundred twenty four
+4 2 5,four hundred twenty five
+4 2 6,four hundred twenty six
+4 2 7,four hundred twenty seven
+4 2 8,four hundred twenty eight
+4 2 9,four hundred twenty nine
+4 3 0,four hundred thirty 
+4 3 1,four hundred thirty one
+4 3 2,four hundred thirty two
+4 3 3,four hundred thirty three
+4 3 4,four hundred thirty four
+4 3 5,four hundred thirty five
+4 3 6,four hundred thirty six
+4 3 7,four hundred thirty seven
+4 3 8,four hundred thirty eight
+4 3 9,four hundred thirty nine
+4 4 0,four hundred forty 
+4 4 1,four hundred forty one
+4 4 2,four hundred forty two
+4 4 3,four hundred forty three
+4 4 4,four hundred forty four
+4 4 5,four hundred forty five
+4 4 6,four hundred forty six
+4 4 7,four hundred forty seven
+4 4 8,four hundred forty eight
+4 4 9,four hundred forty nine
+4 5 0,four hundred fifty 
+4 5 1,four hundred fifty one
+4 5 2,four hundred fifty two
+4 5 3,four hundred fifty three
+4 5 4,four hundred fifty four
+4 5 5,four hundred fifty five
+4 5 6,four hundred fifty six
+4 5 7,four hundred fifty seven
+4 5 8,four hundred fifty eight
+4 5 9,four hundred fifty nine
+4 6 0,four hundred sixty 
+4 6 1,four hundred sixty one
+4 6 2,four hundred sixty two
+4 6 3,four hundred sixty three
+4 6 4,four hundred sixty four
+4 6 5,four hundred sixty five
+4 6 6,four hundred sixty six
+4 6 7,four hundred sixty seven
+4 6 8,four hundred sixty eight
+4 6 9,four hundred sixty nine
+4 7 0,four hundred seventy 
+4 7 1,four hundred seventy one
+4 7 2,four hundred seventy two
+4 7 3,four hundred seventy three
+4 7 4,four hundred seventy four
+4 7 5,four hundred seventy five
+4 7 6,four hundred seventy six
+4 7 7,four hundred seventy seven
+4 7 8,four hundred seventy eight
+4 7 9,four hundred seventy nine
+4 8 0,four hundred eighty 
+4 8 1,four hundred eighty one
+4 8 2,four hundred eighty two
+4 8 3,four hundred eighty three
+4 8 4,four hundred eighty four
+4 8 5,four hundred eighty five
+4 8 6,four hundred eighty six
+4 8 7,four hundred eighty seven
+4 8 8,four hundred eighty eight
+4 8 9,four hundred eighty nine
+4 9 0,four hundred ninety 
+4 9 1,four hundred ninety one
+4 9 2,four hundred ninety two
+4 9 3,four hundred ninety three
+4 9 4,four hundred ninety four
+4 9 5,four hundred ninety five
+4 9 6,four hundred ninety six
+4 9 7,four hundred ninety seven
+4 9 8,four hundred ninety eight
+4 9 9,four hundred ninety nine
+5 0 0,five hundred
+5 0 1,five hundred one
+5 0 2,five hundred two
+5 0 3,five hundred three
+5 0 4,five hundred four
+5 0 5,five hundred five
+5 0 6,five hundred six
+5 0 7,five hundred seven
+5 0 8,five hundred eight
+5 0 9,five hundred nine
+5 1 0,five hundred ten
+5 1 1,five hundred eleven
+5 1 2,five hundred twelve
+5 1 3,five hundred thirteen
+5 1 4,five hundred fourteen
+5 1 5,five hundred fifteen
+5 1 6,five hundred sixteen
+5 1 7,five hundred seventeen
+5 1 8,five hundred eighteen
+5 1 9,five hundred nineteen
+5 2 0,five hundred twenty 
+5 2 1,five hundred twenty one
+5 2 2,five hundred twenty two
+5 2 3,five hundred twenty three
+5 2 4,five hundred twenty four
+5 2 5,five hundred twenty five
+5 2 6,five hundred twenty six
+5 2 7,five hundred twenty seven
+5 2 8,five hundred twenty eight
+5 2 9,five hundred twenty nine
+5 3 0,five hundred thirty 
+5 3 1,five hundred thirty one
+5 3 2,five hundred thirty two
+5 3 3,five hundred thirty three
+5 3 4,five hundred thirty four
+5 3 5,five hundred thirty five
+5 3 6,five hundred thirty six
+5 3 7,five hundred thirty seven
+5 3 8,five hundred thirty eight
+5 3 9,five hundred thirty nine
+5 4 0,five hundred forty 
+5 4 1,five hundred forty one
+5 4 2,five hundred forty two
+5 4 3,five hundred forty three
+5 4 4,five hundred forty four
+5 4 5,five hundred forty five
+5 4 6,five hundred forty six
+5 4 7,five hundred forty seven
+5 4 8,five hundred forty eight
+5 4 9,five hundred forty nine
+5 5 0,five hundred fifty 
+5 5 1,five hundred fifty one
+5 5 2,five hundred fifty two
+5 5 3,five hundred fifty three
+5 5 4,five hundred fifty four
+5 5 5,five hundred fifty five
+5 5 6,five hundred fifty six
+5 5 7,five hundred fifty seven
+5 5 8,five hundred fifty eight
+5 5 9,five hundred fifty nine
+5 6 0,five hundred sixty 
+5 6 1,five hundred sixty one
+5 6 2,five hundred sixty two
+5 6 3,five hundred sixty three
+5 6 4,five hundred sixty four
+5 6 5,five hundred sixty five
+5 6 6,five hundred sixty six
+5 6 7,five hundred sixty seven
+5 6 8,five hundred sixty eight
+5 6 9,five hundred sixty nine
+5 7 0,five hundred seventy 
+5 7 1,five hundred seventy one
+5 7 2,five hundred seventy two
+5 7 3,five hundred seventy three
+5 7 4,five hundred seventy four
+5 7 5,five hundred seventy five
+5 7 6,five hundred seventy six
+5 7 7,five hundred seventy seven
+5 7 8,five hundred seventy eight
+5 7 9,five hundred seventy nine
+5 8 0,five hundred eighty 
+5 8 1,five hundred eighty one
+5 8 2,five hundred eighty two
+5 8 3,five hundred eighty three
+5 8 4,five hundred eighty four
+5 8 5,five hundred eighty five
+5 8 6,five hundred eighty six
+5 8 7,five hundred eighty seven
+5 8 8,five hundred eighty eight
+5 8 9,five hundred eighty nine
+5 9 0,five hundred ninety 
+5 9 1,five hundred ninety one
+5 9 2,five hundred ninety two
+5 9 3,five hundred ninety three
+5 9 4,five hundred ninety four
+5 9 5,five hundred ninety five
+5 9 6,five hundred ninety six
+5 9 7,five hundred ninety seven
+5 9 8,five hundred ninety eight
+5 9 9,five hundred ninety nine
+6 0 0,six hundred
+6 0 1,six hundred one
+6 0 2,six hundred two
+6 0 3,six hundred three
+6 0 4,six hundred four
+6 0 5,six hundred five
+6 0 6,six hundred six
+6 0 7,six hundred seven
+6 0 8,six hundred eight
+6 0 9,six hundred nine
+6 1 0,six hundred ten
+6 1 1,six hundred eleven
+6 1 2,six hundred twelve
+6 1 3,six hundred thirteen
+6 1 4,six hundred fourteen
+6 1 5,six hundred fifteen
+6 1 6,six hundred sixteen
+6 1 7,six hundred seventeen
+6 1 8,six hundred eighteen
+6 1 9,six hundred nineteen
+6 2 0,six hundred twenty 
+6 2 1,six hundred twenty one
+6 2 2,six hundred twenty two
+6 2 3,six hundred twenty three
+6 2 4,six hundred twenty four
+6 2 5,six hundred twenty five
+6 2 6,six hundred twenty six
+6 2 7,six hundred twenty seven
+6 2 8,six hundred twenty eight
+6 2 9,six hundred twenty nine
+6 3 0,six hundred thirty 
+6 3 1,six hundred thirty one
+6 3 2,six hundred thirty two
+6 3 3,six hundred thirty three
+6 3 4,six hundred thirty four
+6 3 5,six hundred thirty five
+6 3 6,six hundred thirty six
+6 3 7,six hundred thirty seven
+6 3 8,six hundred thirty eight
+6 3 9,six hundred thirty nine
+6 4 0,six hundred forty 
+6 4 1,six hundred forty one
+6 4 2,six hundred forty two
+6 4 3,six hundred forty three
+6 4 4,six hundred forty four
+6 4 5,six hundred forty five
+6 4 6,six hundred forty six
+6 4 7,six hundred forty seven
+6 4 8,six hundred forty eight
+6 4 9,six hundred forty nine
+6 5 0,six hundred fifty 
+6 5 1,six hundred fifty one
+6 5 2,six hundred fifty two
+6 5 3,six hundred fifty three
+6 5 4,six hundred fifty four
+6 5 5,six hundred fifty five
+6 5 6,six hundred fifty six
+6 5 7,six hundred fifty seven
+6 5 8,six hundred fifty eight
+6 5 9,six hundred fifty nine
+6 6 0,six hundred sixty 
+6 6 1,six hundred sixty one
+6 6 2,six hundred sixty two
+6 6 3,six hundred sixty three
+6 6 4,six hundred sixty four
+6 6 5,six hundred sixty five
+6 6 6,six hundred sixty six
+6 6 7,six hundred sixty seven
+6 6 8,six hundred sixty eight
+6 6 9,six hundred sixty nine
+6 7 0,six hundred seventy 
+6 7 1,six hundred seventy one
+6 7 2,six hundred seventy two
+6 7 3,six hundred seventy three
+6 7 4,six hundred seventy four
+6 7 5,six hundred seventy five
+6 7 6,six hundred seventy six
+6 7 7,six hundred seventy seven
+6 7 8,six hundred seventy eight
+6 7 9,six hundred seventy nine
+6 8 0,six hundred eighty 
+6 8 1,six hundred eighty one
+6 8 2,six hundred eighty two
+6 8 3,six hundred eighty three
+6 8 4,six hundred eighty four
+6 8 5,six hundred eighty five
+6 8 6,six hundred eighty six
+6 8 7,six hundred eighty seven
+6 8 8,six hundred eighty eight
+6 8 9,six hundred eighty nine
+6 9 0,six hundred ninety 
+6 9 1,six hundred ninety one
+6 9 2,six hundred ninety two
+6 9 3,six hundred ninety three
+6 9 4,six hundred ninety four
+6 9 5,six hundred ninety five
+6 9 6,six hundred ninety six
+6 9 7,six hundred ninety seven
+6 9 8,six hundred ninety eight
+6 9 9,six hundred ninety nine
+7 0 0,seven hundred
+7 0 1,seven hundred one
+7 0 2,seven hundred two
+7 0 3,seven hundred three
+7 0 4,seven hundred four
+7 0 5,seven hundred five
+7 0 6,seven hundred six
+7 0 7,seven hundred seven
+7 0 8,seven hundred eight
+7 0 9,seven hundred nine
+7 1 0,seven hundred ten
+7 1 1,seven hundred eleven
+7 1 2,seven hundred twelve
+7 1 3,seven hundred thirteen
+7 1 4,seven hundred fourteen
+7 1 5,seven hundred fifteen
+7 1 6,seven hundred sixteen
+7 1 7,seven hundred seventeen
+7 1 8,seven hundred eighteen
+7 1 9,seven hundred nineteen
+7 2 0,seven hundred twenty 
+7 2 1,seven hundred twenty one
+7 2 2,seven hundred twenty two
+7 2 3,seven hundred twenty three
+7 2 4,seven hundred twenty four
+7 2 5,seven hundred twenty five
+7 2 6,seven hundred twenty six
+7 2 7,seven hundred twenty seven
+7 2 8,seven hundred twenty eight
+7 2 9,seven hundred twenty nine
+7 3 0,seven hundred thirty 
+7 3 1,seven hundred thirty one
+7 3 2,seven hundred thirty two
+7 3 3,seven hundred thirty three
+7 3 4,seven hundred thirty four
+7 3 5,seven hundred thirty five
+7 3 6,seven hundred thirty six
+7 3 7,seven hundred thirty seven
+7 3 8,seven hundred thirty eight
+7 3 9,seven hundred thirty nine
+7 4 0,seven hundred forty 
+7 4 1,seven hundred forty one
+7 4 2,seven hundred forty two
+7 4 3,seven hundred forty three
+7 4 4,seven hundred forty four
+7 4 5,seven hundred forty five
+7 4 6,seven hundred forty six
+7 4 7,seven hundred forty seven
+7 4 8,seven hundred forty eight
+7 4 9,seven hundred forty nine
+7 5 0,seven hundred fifty 
+7 5 1,seven hundred fifty one
+7 5 2,seven hundred fifty two
+7 5 3,seven hundred fifty three
+7 5 4,seven hundred fifty four
+7 5 5,seven hundred fifty five
+7 5 6,seven hundred fifty six
+7 5 7,seven hundred fifty seven
+7 5 8,seven hundred fifty eight
+7 5 9,seven hundred fifty nine
+7 6 0,seven hundred sixty 
+7 6 1,seven hundred sixty one
+7 6 2,seven hundred sixty two
+7 6 3,seven hundred sixty three
+7 6 4,seven hundred sixty four
+7 6 5,seven hundred sixty five
+7 6 6,seven hundred sixty six
+7 6 7,seven hundred sixty seven
+7 6 8,seven hundred sixty eight
+7 6 9,seven hundred sixty nine
+7 7 0,seven hundred seventy 
+7 7 1,seven hundred seventy one
+7 7 2,seven hundred seventy two
+7 7 3,seven hundred seventy three
+7 7 4,seven hundred seventy four
+7 7 5,seven hundred seventy five
+7 7 6,seven hundred seventy six
+7 7 7,seven hundred seventy seven
+7 7 8,seven hundred seventy eight
+7 7 9,seven hundred seventy nine
+7 8 0,seven hundred eighty 
+7 8 1,seven hundred eighty one
+7 8 2,seven hundred eighty two
+7 8 3,seven hundred eighty three
+7 8 4,seven hundred eighty four
+7 8 5,seven hundred eighty five
+7 8 6,seven hundred eighty six
+7 8 7,seven hundred eighty seven
+7 8 8,seven hundred eighty eight
+7 8 9,seven hundred eighty nine
+7 9 0,seven hundred ninety 
+7 9 1,seven hundred ninety one
+7 9 2,seven hundred ninety two
+7 9 3,seven hundred ninety three
+7 9 4,seven hundred ninety four
+7 9 5,seven hundred ninety five
+7 9 6,seven hundred ninety six
+7 9 7,seven hundred ninety seven
+7 9 8,seven hundred ninety eight
+7 9 9,seven hundred ninety nine
+8 0 0,eight hundred
+8 0 1,eight hundred one
+8 0 2,eight hundred two
+8 0 3,eight hundred three
+8 0 4,eight hundred four
+8 0 5,eight hundred five
+8 0 6,eight hundred six
+8 0 7,eight hundred seven
+8 0 8,eight hundred eight
+8 0 9,eight hundred nine
+8 1 0,eight hundred ten
+8 1 1,eight hundred eleven
+8 1 2,eight hundred twelve
+8 1 3,eight hundred thirteen
+8 1 4,eight hundred fourteen
+8 1 5,eight hundred fifteen
+8 1 6,eight hundred sixteen
+8 1 7,eight hundred seventeen
+8 1 8,eight hundred eighteen
+8 1 9,eight hundred nineteen
+8 2 0,eight hundred twenty 
+8 2 1,eight hundred twenty one
+8 2 2,eight hundred twenty two
+8 2 3,eight hundred twenty three
+8 2 4,eight hundred twenty four
+8 2 5,eight hundred twenty five
+8 2 6,eight hundred twenty six
+8 2 7,eight hundred twenty seven
+8 2 8,eight hundred twenty eight
+8 2 9,eight hundred twenty nine
+8 3 0,eight hundred thirty 
+8 3 1,eight hundred thirty one
+8 3 2,eight hundred thirty two
+8 3 3,eight hundred thirty three
+8 3 4,eight hundred thirty four
+8 3 5,eight hundred thirty five
+8 3 6,eight hundred thirty six
+8 3 7,eight hundred thirty seven
+8 3 8,eight hundred thirty eight
+8 3 9,eight hundred thirty nine
+8 4 0,eight hundred forty 
+8 4 1,eight hundred forty one
+8 4 2,eight hundred forty two
+8 4 3,eight hundred forty three
+8 4 4,eight hundred forty four
+8 4 5,eight hundred forty five
+8 4 6,eight hundred forty six
+8 4 7,eight hundred forty seven
+8 4 8,eight hundred forty eight
+8 4 9,eight hundred forty nine
+8 5 0,eight hundred fifty 
+8 5 1,eight hundred fifty one
+8 5 2,eight hundred fifty two
+8 5 3,eight hundred fifty three
+8 5 4,eight hundred fifty four
+8 5 5,eight hundred fifty five
+8 5 6,eight hundred fifty six
+8 5 7,eight hundred fifty seven
+8 5 8,eight hundred fifty eight
+8 5 9,eight hundred fifty nine
+8 6 0,eight hundred sixty 
+8 6 1,eight hundred sixty one
+8 6 2,eight hundred sixty two
+8 6 3,eight hundred sixty three
+8 6 4,eight hundred sixty four
+8 6 5,eight hundred sixty five
+8 6 6,eight hundred sixty six
+8 6 7,eight hundred sixty seven
+8 6 8,eight hundred sixty eight
+8 6 9,eight hundred sixty nine
+8 7 0,eight hundred seventy 
+8 7 1,eight hundred seventy one
+8 7 2,eight hundred seventy two
+8 7 3,eight hundred seventy three
+8 7 4,eight hundred seventy four
+8 7 5,eight hundred seventy five
+8 7 6,eight hundred seventy six
+8 7 7,eight hundred seventy seven
+8 7 8,eight hundred seventy eight
+8 7 9,eight hundred seventy nine
+8 8 0,eight hundred eighty 
+8 8 1,eight hundred eighty one
+8 8 2,eight hundred eighty two
+8 8 3,eight hundred eighty three
+8 8 4,eight hundred eighty four
+8 8 5,eight hundred eighty five
+8 8 6,eight hundred eighty six
+8 8 7,eight hundred eighty seven
+8 8 8,eight hundred eighty eight
+8 8 9,eight hundred eighty nine
+8 9 0,eight hundred ninety 
+8 9 1,eight hundred ninety one
+8 9 2,eight hundred ninety two
+8 9 3,eight hundred ninety three
+8 9 4,eight hundred ninety four
+8 9 5,eight hundred ninety five
+8 9 6,eight hundred ninety six
+8 9 7,eight hundred ninety seven
+8 9 8,eight hundred ninety eight
+8 9 9,eight hundred ninety nine
+9 0 0,nine hundred
+9 0 1,nine hundred one
+9 0 2,nine hundred two
+9 0 3,nine hundred three
+9 0 4,nine hundred four
+9 0 5,nine hundred five
+9 0 6,nine hundred six
+9 0 7,nine hundred seven
+9 0 8,nine hundred eight
+9 0 9,nine hundred nine
+9 1 0,nine hundred ten
+9 1 1,nine hundred eleven
+9 1 2,nine hundred twelve
+9 1 3,nine hundred thirteen
+9 1 4,nine hundred fourteen
+9 1 5,nine hundred fifteen
+9 1 6,nine hundred sixteen
+9 1 7,nine hundred seventeen
+9 1 8,nine hundred eighteen
+9 1 9,nine hundred nineteen
+9 2 0,nine hundred twenty 
+9 2 1,nine hundred twenty one
+9 2 2,nine hundred twenty two
+9 2 3,nine hundred twenty three
+9 2 4,nine hundred twenty four
+9 2 5,nine hundred twenty five
+9 2 6,nine hundred twenty six
+9 2 7,nine hundred twenty seven
+9 2 8,nine hundred twenty eight
+9 2 9,nine hundred twenty nine
+9 3 0,nine hundred thirty 
+9 3 1,nine hundred thirty one
+9 3 2,nine hundred thirty two
+9 3 3,nine hundred thirty three
+9 3 4,nine hundred thirty four
+9 3 5,nine hundred thirty five
+9 3 6,nine hundred thirty six
+9 3 7,nine hundred thirty seven
+9 3 8,nine hundred thirty eight
+9 3 9,nine hundred thirty nine
+9 4 0,nine hundred forty 
+9 4 1,nine hundred forty one
+9 4 2,nine hundred forty two
+9 4 3,nine hundred forty three
+9 4 4,nine hundred forty four
+9 4 5,nine hundred forty five
+9 4 6,nine hundred forty six
+9 4 7,nine hundred forty seven
+9 4 8,nine hundred forty eight
+9 4 9,nine hundred forty nine
+9 5 0,nine hundred fifty 
+9 5 1,nine hundred fifty one
+9 5 2,nine hundred fifty two
+9 5 3,nine hundred fifty three
+9 5 4,nine hundred fifty four
+9 5 5,nine hundred fifty five
+9 5 6,nine hundred fifty six
+9 5 7,nine hundred fifty seven
+9 5 8,nine hundred fifty eight
+9 5 9,nine hundred fifty nine
+9 6 0,nine hundred sixty 
+9 6 1,nine hundred sixty one
+9 6 2,nine hundred sixty two
+9 6 3,nine hundred sixty three
+9 6 4,nine hundred sixty four
+9 6 5,nine hundred sixty five
+9 6 6,nine hundred sixty six
+9 6 7,nine hundred sixty seven
+9 6 8,nine hundred sixty eight
+9 6 9,nine hundred sixty nine
+9 7 0,nine hundred seventy 
+9 7 1,nine hundred seventy one
+9 7 2,nine hundred seventy two
+9 7 3,nine hundred seventy three
+9 7 4,nine hundred seventy four
+9 7 5,nine hundred seventy five
+9 7 6,nine hundred seventy six
+9 7 7,nine hundred seventy seven
+9 7 8,nine hundred seventy eight
+9 7 9,nine hundred seventy nine
+9 8 0,nine hundred eighty 
+9 8 1,nine hundred eighty one
+9 8 2,nine hundred eighty two
+9 8 3,nine hundred eighty three
+9 8 4,nine hundred eighty four
+9 8 5,nine hundred eighty five
+9 8 6,nine hundred eighty six
+9 8 7,nine hundred eighty seven
+9 8 8,nine hundred eighty eight
+9 8 9,nine hundred eighty nine
+9 9 0,nine hundred ninety 
+9 9 1,nine hundred ninety one
+9 9 2,nine hundred ninety two
+9 9 3,nine hundred ninety three
+9 9 4,nine hundred ninety four
+9 9 5,nine hundred ninety five
+9 9 6,nine hundred ninety six
+9 9 7,nine hundred ninety seven
+9 9 8,nine hundred ninety eight
