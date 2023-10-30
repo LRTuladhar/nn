@@ -1,0 +1,69 @@
+from langchain.document_loaders import WebBaseLoader
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain.embeddings.openai import OpenAIEmbeddings
+from langchain.embeddings import CacheBackedEmbeddings
+from langchain.vectorstores import FAISS
+from langchain.storage import LocalFileStore
+from langchain.chains import RetrievalQA
+from langchain.callbacks import StdOutCallbackHandler
+from langchain.chat_models import ChatOpenAI
+
+
+text_splitter = RecursiveCharacterTextSplitter(
+    chunk_size = 500,
+    chunk_overlap = 50,
+    length_function = len
+)
+
+store = LocalFileStore("./cache/")
+
+# create an embedder
+core_embeddings_model = OpenAIEmbeddings()
+
+embedder = CacheBackedEmbeddings.from_bytes_store(
+    core_embeddings_model,
+    store,
+    namespace = core_embeddings_model.model
+)
+
+urlbase = "https://www.jobspider.com/job/view-resume-"
+urlend = ".html"
+
+loader = WebBaseLoader(urlbase + "80001" + urlend).load()
+chunks = text_splitter.transform_documents(loader)
+
+# store embeddings in vector store
+vectorstore = FAISS.from_documents(chunks, embedder)
+
+
+for i in range(80001, 80011):
+    urlbase = "https://www.jobspider.com/job/view-resume-"
+    urlend = ".html"
+    print("loading:" + urlbase + str(i) + urlend)
+    loader = WebBaseLoader(urlbase+ str(i)+urlend).load()
+    file.write("<START>")
+    file.write(loader[0].page_content)
+    file.write("<END>\n\n")
+    
+    
+    chunks = text_splitter.transform_documents(loader)
+    vectorstore.add_documents(chunks)
+
+# instantiate a retriever
+retriever = vectorstore.as_retriever()
+llm = ChatOpenAI()
+handler =  StdOutCallbackHandler()
+
+# this is the entire retrieval system
+qa_with_sources_chain = RetrievalQA.from_chain_type(
+    llm=llm,
+    retriever=retriever,
+    callbacks=[handler],
+    return_source_documents=False
+)
+
+# This is the entire augment system!
+response = qa_with_sources_chain({"query":"Did any applicants have experience building prototypes"})
+
+print(response['result'])
+
