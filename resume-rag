@@ -41,10 +41,6 @@ for i in range(80001, 80011):
     urlend = ".html"
     print("loading:" + urlbase + str(i) + urlend)
     loader = WebBaseLoader(urlbase+ str(i)+urlend).load()
-    file.write("<START>")
-    file.write(loader[0].page_content)
-    file.write("<END>\n\n")
-    
     
     chunks = text_splitter.transform_documents(loader)
     vectorstore.add_documents(chunks)
